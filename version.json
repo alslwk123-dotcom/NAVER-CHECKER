@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "",
-  "notes": "첫 배포"
+  "version": "1.0.1",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/V1.0.1/NaverExposureChecker_update.zip",
+  "notes": "아이디 여러 개 한번에 추가, 아이디 관리 창 버그 수정, 캡차 자동 재시도 기능 추가"
 }
