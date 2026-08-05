@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/UP/NaverExposureChecker_update.zip",
-  "notes": "다크모드 UI 개선, 저장 형식 선택(엑셀/텍스트), 확인 필요 자동 감지, 아이디 자동 수집, 아이디 목록 전체 삭제, SSL 오류 수정, 업데이트 시 검은 창 안 뜨도록 수정 등"
+  "version": "1.0.8",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/V1.0.8/NaverExposureChecker_update.zip",
+  "notes": "메인 블로그 지정 기능(빨간 글씨), 상위 5등 3개 이상 노출 시 초록 배경, 금지 키워드 보라색으로 변경, 결과 체크박스 및 자동 체크, 저장 버튼 4종(노출X/금지키워드만/누락검사결과/체크제외저장), 검사 중 속도·예상시간 표시, 체크 전체 켜기/끄기 버튼, 아이디 목록 전체삭제 기능 등"
 }
