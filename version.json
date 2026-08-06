@@ -1,5 +1,5 @@
 {
   "version": "1.4.0",
   "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/V1.4.0/NaverExposureChecker_update.zip",
-  "notes": "한페이지 검사, 보고용 메모 설정 완"
+  "notes": "참고 이미지 여러 장 한번에 추가(전용 관리창), 한 페이지 검사 기본값으로 설정, 금지 키워드 결과표 제외, 한페이지 모드 설정 팝업, 저장 버튼 3개로 정리, 보고서 총노출개수 계산 오류 수정 등"
 }
