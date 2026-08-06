@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/v1.1.2/NaverExposureChecker_update.zip",
-  "notes": "아이디로 찾은 경우 실제 블로그 방문해서 정확한 이름 확인, 메인 블로그 판정 정확도 개선(아이디 목록에도 메인 지정 가능), 저장 파일에 잘리지 않은 원본 전체 키워드 표시 등"
+  "version": "1.4.0",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/V1.4.0/NaverExposureChecker_update.zip",
+  "notes": "한페이지 검사, 보고용 메모 설정 완"
 }
