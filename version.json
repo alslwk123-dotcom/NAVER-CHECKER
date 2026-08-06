@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/V1.0.8/NaverExposureChecker_update.zip",
-  "notes": "메인 블로그 지정 기능(빨간 글씨), 상위 5등 3개 이상 노출 시 초록 배경, 금지 키워드 보라색으로 변경, 결과 체크박스 및 자동 체크, 저장 버튼 4종(노출X/금지키워드만/누락검사결과/체크제외저장), 검사 중 속도·예상시간 표시, 체크 전체 켜기/끄기 버튼, 아이디 목록 전체삭제 기능 등"
+  "version": "1.1.2",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/v1.1.2/NaverExposureChecker_update.zip",
+  "notes": "아이디로 찾은 경우 실제 블로그 방문해서 정확한 이름 확인, 메인 블로그 판정 정확도 개선(아이디 목록에도 메인 지정 가능), 저장 파일에 잘리지 않은 원본 전체 키워드 표시 등"
 }
