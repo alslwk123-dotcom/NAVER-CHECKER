@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
-  "notes": "화면이 안 뜨고 죽는 일부 PC 문제에 WebView2/.NET Framework 설치 안내 팝업 추가.",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.1.6/TMHub_v1.1.6.zip"
+  "version": "1.1.7",
+  "notes": "화면이 안 뜨고 죽던 문제의 실제 원인으로 추정되는 수정: .NET 런타임 자동판단 대신 netfx로 명시 고정.",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.1.7/TMHub_v1.1.7.zip"
 }
