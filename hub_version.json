@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "notes": "누락검사 그룹 전체/해제 버튼 위치 수정, 키워드 분석기 상세 탭 먹통 버그 수정, 키워드 분석기 헤더 디자인 통일.",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.1.4/TMHub_v1.1.4.zip"
+  "version": "1.1.5",
+  "notes": "자동 업데이트가 실제로는 파일을 못 바꾸던 핵심 버그 수정(자식 프로세스가 exe를 붙잡고 있던 문제). 업데이트 중 진행 화면도 보이게 함.",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.1.5/TMHub_v1.1.5.zip"
 }
