@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "누락검사기가 바탕화면에 폴더를 만들던 문제 수정, 결과표 키워드 더블클릭 시 네이버 검색 열기 복구.",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.2.2/TMHub_v1.2.2.zip"
+  "version": "1.3.0",
+  "notes": "키워드 분석기 개편: 블라이식 키워드 분석, 경쟁 포스팅 분석, 키워드 인사이트(마이닝·대량분석) 추가.",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.3.0/TMHub_v1.3.0.zip"
 }
