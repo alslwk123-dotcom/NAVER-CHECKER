@@ -1,5 +1,5 @@
 {
-  "version": "1.3.13",
-  "notes": "오류 수정",
-  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.3.13/TMHub_v1.3.13.zip"
+  "version": "1.3.15",
+  "notes": "누락 검사: 새 글 확인 대기 시간 2시간 -> 30분 (v1.3.15)",
+  "url": "https://github.com/alslwk123-dotcom/NAVER-CHECKER/releases/download/hub-v1.3.15/TMHub_v1.3.15.zip"
 }
